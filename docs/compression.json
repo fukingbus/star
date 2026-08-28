@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "encoding": "gzip",
+  "files": [
+    {
+      "file": "assets/index-BX8Kf_f7.css",
+      "bytes": 35859,
+      "gzipBytes": 8077,
+      "sha256": "0c16b75ea695d71d193867687e3a19fc3be98a92e9cf80571f18f9fc8a55afa3",
+      "gzipSha256": "dedc871c9c31c44a4c6e595bc576265ff6fbae1d23350dd3512d2fbc3a0aac98"
+    },
+    {
+      "file": "assets/index-CgvCcmuC.js",
+      "bytes": 640421,
+      "gzipBytes": 102419,
+      "sha256": "448105dc4d1f019c4c6ef069a67e3561902493c939140e1d6ba0593602d1e7aa",
+      "gzipSha256": "319c134150d08f7731fab19f6fa7a8007c97dbf5b546dfcf6071882ff5864e7e"
+    },
+    {
+      "file": "favicon.png",
+      "bytes": 12372,
+      "gzipBytes": 12395,
+      "sha256": "83e7b8deab91f6f9dc6d447e8e4fb72dcfde69dc39eebbaa96f7f4acc6fb3d25",
+      "gzipSha256": "d4ae110544be272ec7e69a95aabfcfe9c54d536e89d2005e90260a10dd90a1ca"
+    },
+    {
+      "file": "game/star-icons.75068780f462a4d30ecc.png",
+      "bytes": 1653737,
+      "gzipBytes": 1651075,
+      "sha256": "75068780f462a4d30ecca50350ff729655562d584c91c375f32c735bfe7d4003",
+      "gzipSha256": "7041b6d891e78e91a47f69fd606b97fdd0a21c399c47a2e659633615779835ca"
+    },
+    {
+      "file": "index.html",
+      "bytes": 529,
+      "gzipBytes": 396,
+      "sha256": "466cfcf5a80878ba128c74dfb70191a3eb8e7f2332abdaf38d88d92cfc2088f7",
+      "gzipSha256": "a35e7778a62e0ee496d19d77164e4734824534af464d731f27031427ac5b06d0"
+    },
+    {
+      "file": "星脈.html",
+      "bytes": 2898248,
+      "gzipBytes": 1781489,
+      "sha256": "95864d5f9c94ad8041ce9125a6f98b7fc7f2aba3dee0dabc6ce4b691ed8537d5",
+      "gzipSha256": "7965638ed464156431662740c06c78074f63f3841a11a860108505c16b153a27"
+    }
+  ]
+}

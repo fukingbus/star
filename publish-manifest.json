@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "kind": "star-viewer-github-pages",
+  "publishRoot": "docs",
+  "files": [
+    {
+      "file": ".gitattributes",
+      "bytes": 8,
+      "sha256": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da"
+    },
+    {
+      "file": ".github/workflows/pages.yml",
+      "bytes": 782,
+      "sha256": "e98a17b68dde8d141c991b081b910a46d75d7aabf4e6dad386ed1332d80a44d3"
+    },
+    {
+      "file": "docs/.nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "docs/assets/index-BX8Kf_f7.css",
+      "bytes": 35859,
+      "sha256": "0c16b75ea695d71d193867687e3a19fc3be98a92e9cf80571f18f9fc8a55afa3"
+    },
+    {
+      "file": "docs/assets/index-BX8Kf_f7.css.gz",
+      "bytes": 8077,
+      "sha256": "dedc871c9c31c44a4c6e595bc576265ff6fbae1d23350dd3512d2fbc3a0aac98"
+    },
+    {
+      "file": "docs/assets/index-CgvCcmuC.js",
+      "bytes": 640421,
+      "sha256": "448105dc4d1f019c4c6ef069a67e3561902493c939140e1d6ba0593602d1e7aa"
+    },
+    {
+      "file": "docs/assets/index-CgvCcmuC.js.gz",
+      "bytes": 102419,
+      "sha256": "319c134150d08f7731fab19f6fa7a8007c97dbf5b546dfcf6071882ff5864e7e"
+    },
+    {
+      "file": "docs/compression.json",
+      "bytes": 1684,
+      "sha256": "82a00ed3631dd5e4552d6bfde76fc78a845449766c1f0a13eef5abd76ae6094c"
+    },
+    {
+      "file": "docs/favicon.png",
+      "bytes": 12372,
+      "sha256": "83e7b8deab91f6f9dc6d447e8e4fb72dcfde69dc39eebbaa96f7f4acc6fb3d25"
+    },
+    {
+      "file": "docs/favicon.png.gz",
+      "bytes": 12395,
+      "sha256": "d4ae110544be272ec7e69a95aabfcfe9c54d536e89d2005e90260a10dd90a1ca"
+    },
+    {
+      "file": "docs/game/star-icons.75068780f462a4d30ecc.png",
+      "bytes": 1653737,
+      "sha256": "75068780f462a4d30ecca50350ff729655562d584c91c375f32c735bfe7d4003"
+    },
+    {
+      "file": "docs/game/star-icons.75068780f462a4d30ecc.png.gz",
+      "bytes": 1651075,
+      "sha256": "7041b6d891e78e91a47f69fd606b97fdd0a21c399c47a2e659633615779835ca"
+    },
+    {
+      "file": "docs/index.html",
+      "bytes": 529,
+      "sha256": "466cfcf5a80878ba128c74dfb70191a3eb8e7f2332abdaf38d88d92cfc2088f7"
+    },
+    {
+      "file": "docs/index.html.gz",
+      "bytes": 396,
+      "sha256": "a35e7778a62e0ee496d19d77164e4734824534af464d731f27031427ac5b06d0"
+    },
+    {
+      "file": "docs/星脈.html",
+      "bytes": 2898248,
+      "sha256": "95864d5f9c94ad8041ce9125a6f98b7fc7f2aba3dee0dabc6ce4b691ed8537d5"
+    },
+    {
+      "file": "docs/星脈.html.gz",
+      "bytes": 1781489,
+      "sha256": "7965638ed464156431662740c06c78074f63f3841a11a860108505c16b153a27"
+    },
+    {
+      "file": "README.md",
+      "bytes": 1816,
+      "sha256": "21dfaac000b427aa51331fb2a10ec5e34ed581a2a864b6bcd43be4a79d67c5e3"
+    }
+  ]
+}
