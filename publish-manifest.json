@@ -19,29 +19,29 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "file": "docs/assets/index-Cc6DTEld.js",
-      "bytes": 641893,
-      "sha256": "7ad7c524a2bd8ca6e8bc2222e81b21b6a9e345e5db6fdda7137f5cfe86b6d74d"
+      "file": "docs/assets/index-Bx-CTqxS.js",
+      "bytes": 642489,
+      "sha256": "9492eae744cdc83f539f1fb6a36f15c9dbf5c897433e748692fc954e64a13c9c"
     },
     {
-      "file": "docs/assets/index-Cc6DTEld.js.gz",
-      "bytes": 102873,
-      "sha256": "0fc265e1f62826b351ded2bd1c0c2f8deb78809ef379ed11c26be7dedf37602d"
+      "file": "docs/assets/index-Bx-CTqxS.js.gz",
+      "bytes": 103109,
+      "sha256": "2fb27fd44fe17d06027b2d7233efe79353d974f00f653d2db9624d7ef2d43b9e"
     },
     {
-      "file": "docs/assets/index-DiE6xvMc.css",
-      "bytes": 35887,
-      "sha256": "9bf019eb8982416e6343aaf479ab1471c1ba457ed5c74550b0ce02db3022e4c8"
+      "file": "docs/assets/index-Vflb9Jzg.css",
+      "bytes": 36195,
+      "sha256": "7f0c4916be66861df8013521bb1a994c2d823c0ac04692eb7401075479fa4b1b"
     },
     {
-      "file": "docs/assets/index-DiE6xvMc.css.gz",
-      "bytes": 8084,
-      "sha256": "4489a127dc2bdfd112a3f7b4debcc7479b85797c9a54f081250651ef8698fe28"
+      "file": "docs/assets/index-Vflb9Jzg.css.gz",
+      "bytes": 8142,
+      "sha256": "0c32862dcb0dbb1c98a70c6405e3c917540cc5095a7d7b324eacbe82fe60b77b"
     },
     {
       "file": "docs/compression.json",
       "bytes": 1945,
-      "sha256": "bf9d4977ce89828429af4cee97a0678a44655f48279effea4ab2f4033770eda8"
+      "sha256": "434abc415b9c3c90125cb0a59b66cdf567c3d03d04f5bc7c04031a2b6e354c13"
     },
     {
       "file": "docs/favicon.png",
@@ -54,24 +54,24 @@
       "sha256": "d4ae110544be272ec7e69a95aabfcfe9c54d536e89d2005e90260a10dd90a1ca"
     },
     {
-      "file": "docs/game/star-icons.75068780f462a4d30ecc.png",
-      "bytes": 1653737,
-      "sha256": "75068780f462a4d30ecca50350ff729655562d584c91c375f32c735bfe7d4003"
+      "file": "docs/game/star-icons.c8d74a3b00b099a68b77.png",
+      "bytes": 1677125,
+      "sha256": "c8d74a3b00b099a68b77355d1b2d4b225dfa9d6d9e62aa43b7d2e13e25b3f5b6"
     },
     {
-      "file": "docs/game/star-icons.75068780f462a4d30ecc.png.gz",
-      "bytes": 1651075,
-      "sha256": "7041b6d891e78e91a47f69fd606b97fdd0a21c399c47a2e659633615779835ca"
+      "file": "docs/game/star-icons.c8d74a3b00b099a68b77.png.gz",
+      "bytes": 1674682,
+      "sha256": "158fe3ceed74571c9d5c6f646f7a5260ef7ed488bbc2489c87185a7f496d5d95"
     },
     {
       "file": "docs/index.html",
       "bytes": 2060,
-      "sha256": "bf5aeb615c581dc387c42f396fc0a6edf545fc9d61d27785db38c78bf50bd235"
+      "sha256": "d5e79f12c05b9b540cb678c2441d1878677c217dd3e51bbe5d2098008b43bf39"
     },
     {
       "file": "docs/index.html.gz",
       "bytes": 743,
-      "sha256": "3cc92959e1883001ddf28ec000083efd46b1a960c11f57c6dbe9c66f80169437"
+      "sha256": "966be24a139f3e318091fa38d3ee32ea54c6a5be2b021aeb8be6203f99618915"
     },
     {
       "file": "docs/og.png",
@@ -85,13 +85,13 @@
     },
     {
       "file": "docs/星脈.html",
-      "bytes": 2901279,
-      "sha256": "9cabd26638dcbdd9697222ca150f7c5c6b4b46aa98b248132f4cca2a9a6b55d6"
+      "bytes": 2933367,
+      "sha256": "acc638b0ccb1c3ae76d0206cbb3baf11df32ffa9aafc1994a4ac076d7398c00c"
     },
     {
       "file": "docs/星脈.html.gz",
-      "bytes": 1782284,
-      "sha256": "1b6039633566b2d97923a17550e4f26174ec0696da5d2bfe520cb2028d8f2670"
+      "bytes": 1806233,
+      "sha256": "ba061ce82a6fb8cfcdf08e629c73b067b7369431216ddf97fd6873194d79b487"
     },
     {
       "file": "README.md",
